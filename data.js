@@ -2,7 +2,7 @@ window.PORTFOLIO_DATA = {
   "profile": {
     "name": "ROSHINI BARUVA",
     "headline": "Computer Science Engineering (AI & ML) Graduate",
-    "summary": "Detail-oriented Computer Science Engineering (Artificial Intelligence & Machine Learning) graduate with practical experience in Artificial Intelligence, Machine Learning, Web Development, Frontend Development and Cybersecurity. Skilled in Python, Java, SQL, Django, HTML, CSS, JavaScript, TensorFlow, OpenCV, Git, GitHub, MS Word, MS Excel, MS PowerPoint and reporting tools. Capable of contributing effectively to both technical and non-technical roles through analytical thinking, documentation, communication and customer-focused problem solving.",
+    "summary": ".",
     "email": "kavithakumaribaruva676@gmail.com",
     "phone": "+91-8179599145",
     "location": "Srikakulam, Andhra Pradesh",
