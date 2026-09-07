@@ -185,11 +185,11 @@ window.PORTFOLIO_DATA = {
   },
   "certifications": [
     {
-      "name": "Cisco Python Essentials 1 & 2",
+      "name": "Cisco Python Essentials 1 ",
       "media": "assets/certifications/python-essentials.jpg"
     },
     {
-      "name": "Cisco JavaScript Essentials 1 & 2",
+      "name": "Cisco JavaScript Essentials 1 ",
       "media": "assets/certifications/javascript-essentials.jpg"
     },
     {
@@ -208,7 +208,6 @@ window.PORTFOLIO_DATA = {
   ],
   "languages": [
     "English",
-    "Telugu",
-    "Hindi"
+    "Telugu"
   ]
 };
