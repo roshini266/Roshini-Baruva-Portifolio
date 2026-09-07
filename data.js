@@ -2,7 +2,8 @@ window.PORTFOLIO_DATA = {
   "profile": {
     "name": "ROSHINI BARUVA",
     "headline": "Computer Science Engineering (AI & ML) Graduate",
-    "summary": ".",
+    "heroSummary": "Computer Science Engineering graduate specializing in Artificial Intelligence and Machine Learning, with hands-on experience in AI/ML, web development, frontend development and cybersecurity.",
+    "about": "Hi, I’m Roshini Baruva, a Computer Science Engineering graduate specializing in Artificial Intelligence and Machine Learning. I’m a detail-oriented and adaptable professional who enjoys building practical, technology-driven solutions and continuously learning new technologies.\n\nThrough my internships and projects, I’ve gained hands-on experience in AI/ML, responsive web development, Django, cybersecurity and data-driven applications. I have also published research on multilingual NLP and explainable AI.\n\nI’m currently seeking opportunities in Software Development, Full-Stack Development, AI/ML, Cybersecurity and other technology-driven roles where I can contribute, learn and grow.",
     "email": "kavithakumaribaruva676@gmail.com",
     "phone": "+91-8179599145",
     "location": "Srikakulam, Andhra Pradesh",
