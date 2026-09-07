@@ -8,7 +8,7 @@ function toast(msg){const t=$("#toast");t.textContent=msg;t.classList.add("show"
 function imgFallback(el){el.onerror=()=>{el.style.display="none"}}
 function render(){
  const p=data.profile;
- $("#hero-summary").textContent=p.summary;$("#about-text").textContent=p.summary;$("#location").textContent=p.location;$("#email-mini").textContent=p.email;
+ $("#hero-summary").textContent=p.heroSummary;$("#about-text").textContent=p.about;$("#location").textContent=p.location;$("#email-mini").textContent=p.email;
  $("#hero-email").href="mailto:"+p.email;$("#contact-email").href="mailto:"+p.email;$("#contact-email").textContent=p.email;$("#linkedin").href=p.linkedin;$("#github").href=p.github;$("#year").textContent=new Date().getFullYear();
  const photo=$("#profile-photo"); photo.style.backgroundImage=p.photo?`url("${p.photo}")`:"linear-gradient(145deg,#5bf5cf,#8e7dff)"; if(!p.photo)photo.textContent="RB"; else {photo.textContent="";photo.style.backgroundColor="#151821"}
  $("#education-list").innerHTML=data.education.map(e=>`<article class="edu-item reveal"><div class="period">${esc(e.period)}</div><h3>${esc(e.degree)}</h3><p>${esc(e.institution)}</p>${e.university?`<p>${esc(e.university)}</p>`:""}<p>${esc(e.score)}</p></article>`).join("");
